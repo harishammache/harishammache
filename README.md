@@ -24,7 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" />
 </div>
-  
+<br>
  
 
 
@@ -34,5 +34,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50"/>
 </div>
-
+<br>
 🌱 **Objectif** : Obtenir mon bac +4 à la fin de l'alternance
