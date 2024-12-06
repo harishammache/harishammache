@@ -8,8 +8,8 @@
 <br><br>
 
 <h2><strong>Qui suis-je ?</strong></h2>   
-👋 Hello, moi c’est <strong>Haris</strong>!  
-💻 Développeur web full stack avec un niveau Bac+2, actuellement en alternance à Holberton School.  
+👋 Hello, moi c’est <strong>Haris</strong>!<br>
+💻 Développeur web full stack avec un niveau Bac+2, actuellement en alternance à Holberton School.<br> 
 🌍 Basé à Thonon-les-bains, passionné par la création d'applications modernes et efficaces.
 <br> <br>
 
