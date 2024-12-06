@@ -62,13 +62,15 @@ Obtenir mon bac +4 à la fin de l'alternance
 <br>
 <h2><strong>🎯 Me contacter :</strong></h2>
 <div">
-  <a href="hammache_haris@hotmail.fr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <div>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   : hammache_haris@hotmail.fr
+  </div>
   <br>
-  <a href="https://www.linkedin.com/in/ton-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/haris-hammache-63b438253/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />       : https://www.linkedin.com/in/haris-hammache-63b438253/
+    </a>
+  </div>
 </div>
 
 
