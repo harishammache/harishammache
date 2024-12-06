@@ -28,7 +28,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" />
 </div>
-<br><br>
+<br>
  
 
 
@@ -39,18 +39,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
 </div>
-<br><br>
+<br>
 
 🌱 **Objectif** :
 
 Obtenir mon bac +4 à la fin de l'alternance
-<br>
+<br><br>
 <h2><strong>📊 Statistiques GitHub :</strong></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishammache&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishammache&theme=radical" width="400"/>
 </div>
-<br>
+<br><br>
 <h2><strong>🎮 Passions et hobbies :</strong></h2>
 - 🏋️ Sport, pour garder la forme et relever des défis physiques.<br>
 - 🎮 Jeux vidéo<br>
@@ -59,7 +59,7 @@ Obtenir mon bac +4 à la fin de l'alternance
 - 🎥 Films, un bon moment devant des chefs-d'œuvre du cinéma.  <br>
 - 💻 Informatique, toujours curieux d'apprendre et d'explorer les nouvelles technologies.
 
-<br>
+<br><br>
 <h2><strong>🎯 Me contacter :</strong></h2>
 <div">
   <div>
