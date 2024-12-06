@@ -51,6 +51,7 @@ Obtenir mon bac +4 à la fin de l'alternance
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishammache&theme=radical" width="400"/>
 </div>
 <br><br>
+
 <h2><strong>🎮 Passions et hobbies :</strong></h2>
 - 🏋️ Sport, pour garder la forme et relever des défis physiques.<br>
 - 🎮 Jeux vidéo<br>
@@ -60,6 +61,14 @@ Obtenir mon bac +4 à la fin de l'alternance
 - 💻 Informatique, toujours curieux d'apprendre et d'explorer les nouvelles technologies.
 
 <br><br>
+
+<h2><strong>📊 Contributions par langage :</strong></h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishammache&layout=pie&theme=radical" width="400" />
+</div>
+
+<br><br>
+
 <h2><strong>🎯 Me contacter :</strong></h2>
 <div">
   <div>
@@ -73,4 +82,13 @@ Obtenir mon bac +4 à la fin de l'alternance
   </div>
 </div>
 
+<br><br>
+
+<h2><strong>✍️ Citation inspirante :</strong></h2>
+<div align="center">
+  <blockquote>
+    <em>"Soit le changement que tu veux voir dans le Monde"</em>  
+    – Gandhi
+  </blockquote>
+</div>
 
