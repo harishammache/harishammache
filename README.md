@@ -13,6 +13,7 @@
 
 ### 🚀 Ce que je fais : 
 🔧 **Langages & outils :**  
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />
@@ -22,6 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" />
+</div>
   
  
 
