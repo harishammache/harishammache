@@ -64,7 +64,7 @@ Obtenir mon bac +4 à la fin de l'alternance
 
 <h2><strong>📊 Contributions par langage :</strong></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishammache" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishammache&layout=compact&theme=radical&hide_border=true&langs_count=10" width="400" />
 </div>
 
 <br><br>
